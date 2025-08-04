@@ -5,7 +5,7 @@ This is my first task as a Data Analyst Intern.
 I was given a raw dataset with 100 rows and asked to clean it using Python and Pandas.
 
 ## 📄 Dataset Details:
-- Name: mall_customers_raw_100.csv
+- Name: mall_customers_rawdata.csv
 - Issues found: missing values, duplicates, messy gender values (like M, fem, etc.)
 
 ## 🔧 What I Did:
@@ -16,7 +16,7 @@ I was given a raw dataset with 100 rows and asked to clean it using Python and P
 5. Checked and removed missing values using `.isnull()` and `.dropna()`
 
 ## 📁 Files I Used:
-- mall_customers_raw_100.csv – raw file
+- mall_customers_rawdata.csv – raw file
 - cleaned_mall_customers.csv – after cleaning
 - data_cleaning_code.py – code I wrote
 - README.md – this file 😊
